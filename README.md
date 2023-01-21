@@ -2,6 +2,8 @@
  
  <H1>Organizador de hábitos</H1>
  
+ <img src='./Source/nlw-setup-img.svg'>
+ 
 <p>
  Projeto construido durante o evento online da Rocketseat NLW Setup.
 </p>
