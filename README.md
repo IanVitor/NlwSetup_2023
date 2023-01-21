@@ -12,7 +12,7 @@
  <dt>Front End:</dt><br>
   <dd><img width=20px height=20px src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png'> HTML5</dd>
   <dd><img width=20px height=20px src='https://icones.pro/wp-content/uploads/2022/08/css3.png'> CSS3</dd>
-  <dd><img width=20px height=20px src='https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry.png'> React</dd>
+  <dd><img width=20px height=20px src='[https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry.png](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png)'> React</dd>
   <dd><img width=20px height=20px src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png'> Tailwind Css</dd>
  <dt>Back End:</dt><br>
   <dd><img width=20px height=20px src='https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png'> Node.js</dd>
